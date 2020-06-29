@@ -1,0 +1,1 @@
+host:139.99.208.195,port:7999,user:bahri,pass:2334323,database:bahri_db
